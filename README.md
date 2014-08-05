@@ -1,7 +1,7 @@
 star-chart
 ==========
 
-A Star Chart for Groups of Kids.
+A Star Chart Android App for Groups of Kids.
 
 Initially this will be tailored to the needs of our Sunday School class, with the end goal of having it be useful for any class, organization, or group of kids.
 
